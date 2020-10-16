@@ -13,8 +13,8 @@
 }
 .infoCardHeadline{
     color: black;
-    font-weight: bold
+    font-weight: bold;
 }
 .infoCardCallActionContainer :global(.vtex-button):hover {
-    color: white
+    color: white;
 }
