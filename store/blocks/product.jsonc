@@ -37,8 +37,7 @@
     "props":{
       "showSavings": true,
       "showListPrice": true
-    }
-  },
+    },
   "flex-layout.row#qty-sku": {
     "children": [
       "sku-selector",
@@ -46,5 +45,6 @@
       "shipping-simulator"
     ]
   }
+}
 
 }
